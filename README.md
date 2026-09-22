@@ -26,4 +26,9 @@ Additional parent-post variations:
 - `https://raw.githubusercontent.com/nano-tani/k-note-image/main/tarot/parent-three-card-back-diagonal.png`
 - `https://raw.githubusercontent.com/nano-tani/k-note-image/main/tarot/parent-three-card-back-semicircle.png`
 
+Reversed-position cards are exact 180-degree rotations of the upright cards and
+are stored separately under `tarot/reversed/`. For example:
+
+`https://raw.githubusercontent.com/nano-tani/k-note-image/main/tarot/reversed/temperance.png`
+
 Do not put access tokens, drafts, post text, or private data here.
