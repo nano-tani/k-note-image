@@ -20,4 +20,10 @@ Parent-post visual with three cards face down:
 
 `https://raw.githubusercontent.com/nano-tani/k-note-image/main/tarot/parent-three-card-back.png`
 
+Additional parent-post variations:
+
+- `https://raw.githubusercontent.com/nano-tani/k-note-image/main/tarot/parent-three-card-back-row.png`
+- `https://raw.githubusercontent.com/nano-tani/k-note-image/main/tarot/parent-three-card-back-diagonal.png`
+- `https://raw.githubusercontent.com/nano-tani/k-note-image/main/tarot/parent-three-card-back-semicircle.png`
+
 Do not put access tokens, drafts, post text, or private data here.
