@@ -16,4 +16,8 @@ For example:
 
 `https://raw.githubusercontent.com/nano-tani/k-note-image/main/tarot/wands-ace.png`
 
+Parent-post visual with three cards face down:
+
+`https://raw.githubusercontent.com/nano-tani/k-note-image/main/tarot/parent-three-card-back.png`
+
 Do not put access tokens, drafts, post text, or private data here.
